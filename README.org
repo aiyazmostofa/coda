@@ -1,0 +1,6 @@
+* Coda
+A little web server written in Flask that downloads and merges youtube videos into a single mp3.
+Specifically for classical music.
+
+** License
+[[file:LICENSE][GNU General Public License v3.0]]
